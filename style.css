@@ -51,6 +51,9 @@
    
    .partners .links a{border-bottom-color:currentColor}
 .partners .links{opacity:1;flex-wrap:wrap;margin-top:16px}
+.photog{margin-top:44px;padding-top:28px;border-top:1px solid var(--beige)}
+.photog p{font-size:.85rem}
+.photog .btn{margin-top:16px}
 .sub-h{margin:44px 0 16px;font-size:1.15rem}
 .steps{margin:10px 0 4px 18px;font-size:.8rem;color:#555}
 .steps li{padding:2px 0;border:0;display:list-item}
